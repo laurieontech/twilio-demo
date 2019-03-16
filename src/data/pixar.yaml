@@ -1,0 +1,24 @@
+- name: Toy Story
+  release_date: 1995
+  characters:
+    - Buzz
+    - Woody
+    - Bo Peep
+    - Andy
+    - Rex
+    - Mr Potato Head
+- name: Monsters Inc
+  release_date: 2001
+  characters:
+    - Sully
+    - Mike Wazowski
+    - Boo
+    - Randall
+- name: Finding Nemo
+  release_date: 2003
+  characters:
+    - Nemo
+    - Dory
+    - Marlin
+    - Crush
+    - Peach

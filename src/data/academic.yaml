@@ -1,0 +1,21 @@
+- area: Humanities
+  subject: Literature
+  classes:
+    - British Literature
+    - American Literature
+    - Modern Poetry
+    - Literature and Languages
+- area: Social Sciences
+  subject: Poltical Science
+  classes:
+    - Modern Political Theory
+    - International Relations
+    - The Courts
+    - The American Presidency
+- area: Science
+  subject: Mathematics
+  classes:
+    - Calculus
+    - Differential Equations
+    - Topology
+    - Linear Algebra

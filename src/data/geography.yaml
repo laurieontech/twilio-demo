@@ -1,0 +1,26 @@
+- name: United States
+  founded: 1776
+  cities:
+    - Washington DC
+    - New York City
+    - San Fransisco
+    - Austin
+    - Chicago
+    - Seattle
+    - Boston
+- name: Australia
+  founded: 1901
+  cities:
+    - Sydney
+    - Melbourne
+    - Brisbane
+    - Perth
+    - Adelaide
+- name: China
+  founded: 2070 BCE
+  cities:
+    - Beijing
+    - Shanghai
+    - Shenzhen
+    - Guangzhou
+    - Tianjin
