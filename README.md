@@ -28,7 +28,7 @@ This project is based on the Gatsby starter template. Please follow the instruct
 
 3. **Start up the project.**
 
-   Start up the project! Note that gatsby uses different commands than many front end projects, so don't get caught attempting `npm start`.
+   Start up the project! Note that gatsby uses different commands than many front end projects and make sure to follow the direction below.
 
    ```sh
    gatsby develop
