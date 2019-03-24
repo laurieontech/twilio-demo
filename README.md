@@ -22,11 +22,11 @@ This project is based on the Gatsby starter template. Please follow the instruct
 
 2. **Install dependencies.**
 
-Npm requires a current version of node to be installed on your computer. If this is not already the case more instructions can be found here: https://www.npmjs.com/get-npm
+   Npm requires a current version of node to be installed on your computer. If this is not already the case more instructions can be found here: https://www.npmjs.com/get-npm
 
-```sh
-npm install
-```
+   ```sh
+   npm install
+   ```
 
 3. **Start up the project.**
 
