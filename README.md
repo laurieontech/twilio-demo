@@ -12,11 +12,10 @@ This project is based on the Gatsby starter template. Please follow the instruct
 
 ## 🚀 Quick start
 
-1.  **Download Gatsby.**
+1.  **Install dependencies.**
 
     ```sh
-    # Download the Gatsby CLI
-    npm install -g gatsby-cli
+    npm install
     ```
 
 2.  **Start developing.**
